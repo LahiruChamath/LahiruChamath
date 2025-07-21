@@ -11,7 +11,7 @@
 - 🔭 I'm currently building **cutting-edge full-stack projects** for my portfolio
 - 🌱 Learning AI/ML to bridge software with intelligence
 - 💼 Actively seeking **internships in Software Engineering**
-- 📫 Reach me at: [lahiruchamath@gmail.com](mailto:lahiruchamath@gmail.com)
+- 📫 Reach me at: [lahiruchamath.j@gmail.com](mailto:lahiruchamath.j@gmail.com)
 - ⚡ Fun Fact: I run a Discord server called **ToXiz’s Paradise** ☢️
 
 ---
@@ -54,9 +54,7 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **Dynamic Portfolio CMS** | A personal portfolio with admin panel to update content dynamically | PHP, MySQL, Bootstrap |
-| **Real-Time Chat App** | Chat app with real-time messaging and user auth | React, Node, Socket.io |
-| **Job Board Web App** | Job listing app with filters, search, and dashboard | React, Express, MongoDB |
+
 
 ---
 
@@ -72,9 +70,9 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/lahiru-chamath"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:lahiruchamath@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail" /></a>
-  <a href="https://discord.gg/YOUR-SERVER-ID"><img src="https://img.shields.io/badge/-ToXiz's Paradise-5865F2?style=flat&logo=discord&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/lahiru-chamath-3bb49624a/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="mailto:lahiruchamath.j@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail" /></a>
+  <a href="https://discord.gg/ToXiz's Paradise"><img src="https://img.shields.io/badge/-ToXiz's Paradise-5865F2?style=flat&logo=discord&logoColor=white" /></a>
 </p>
 
 <!---
